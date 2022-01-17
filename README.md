@@ -1,5 +1,11 @@
 # MongoDB DREAM Project
 
+https://www.youtube.com/watch?v=iftOOhVyskA&ab_channel=MongoDB
+
+https://github.com/mongodb-developer/dream
+
+https://github.com/coding-to-music/mongodb-scrape-YouTube-stats-pipeline
+
 Developer Relation Engagement &amp; Activity Metrics
 
 ## Goals
