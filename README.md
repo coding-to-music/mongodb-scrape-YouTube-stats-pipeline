@@ -6,6 +6,8 @@ https://github.com/mongodb-developer/dream
 
 https://github.com/coding-to-music/mongodb-scrape-YouTube-stats-pipeline
 
+https://www.mongodb.com/developer/article/7-things-learned-while-modeling-data-youtube-stats/
+
 Developer Relation Engagement &amp; Activity Metrics
 
 
