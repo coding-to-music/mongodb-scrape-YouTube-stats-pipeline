@@ -8,6 +8,8 @@ https://github.com/coding-to-music/mongodb-scrape-YouTube-stats-pipeline
 
 https://www.mongodb.com/developer/article/7-things-learned-while-modeling-data-youtube-stats/
 
+https://www.mongodb.com/community/forums/t/youtube-stats-tutorial-creating-functions-can-use-github-or-must-manually-create/142365
+
 Developer Relation Engagement &amp; Activity Metrics
 
 
